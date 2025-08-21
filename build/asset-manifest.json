@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/React-Expense-App/static/css/main.0e7a2092.css",
-    "main.js": "/React-Expense-App/static/js/main.14759faf.js",
+    "main.css": "/React-Expense-App/static/css/main.38a4482b.css",
+    "main.js": "/React-Expense-App/static/js/main.d665ae43.js",
     "static/media/meals.jpg": "/React-Expense-App/static/media/meals.2971f633fc1382581cbf.jpg",
     "index.html": "/React-Expense-App/index.html",
-    "main.0e7a2092.css.map": "/React-Expense-App/static/css/main.0e7a2092.css.map",
-    "main.14759faf.js.map": "/React-Expense-App/static/js/main.14759faf.js.map"
+    "main.38a4482b.css.map": "/React-Expense-App/static/css/main.38a4482b.css.map",
+    "main.d665ae43.js.map": "/React-Expense-App/static/js/main.d665ae43.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e7a2092.css",
-    "static/js/main.14759faf.js"
+    "static/css/main.38a4482b.css",
+    "static/js/main.d665ae43.js"
   ]
 }
