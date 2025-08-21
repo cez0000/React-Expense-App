@@ -16,7 +16,7 @@ function App() {
     <CartProvider>
       {click && <Cart onClick={hideModal} />}
       <Header click={showModal} />
-      <main>
+      <main style={{position: 'relative'}}>
         <Meals />
       </main>
     </CartProvider>
